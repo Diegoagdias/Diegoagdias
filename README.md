@@ -2,7 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo **Diego Augusto Garcia Dias**, tenho *35 anos* e sou natural de *Campinas*. Tenho Formação em **Tecnólogo de Análise de Desenvolvimento de Sistemas**. Atualmente, estou cursando **Python** no *Senai*. Eu gosto muito de tecnologia e meu " [Instragram](https://www.instagram.com/diegoagdias/)".
+Me chamo **Diego Augusto Garcia Dias**, tenho *35 anos* e sou natural de *Campinas*. Tenho Formação em **Tecnólogo de Análise de Desenvolvimento de Sistemas**. Atualmente, estou cursando **Python** no *Senai*. Esse é o meu " [Instragram](https://www.instagram.com/diegoagdias/)".
 
 
 ---
